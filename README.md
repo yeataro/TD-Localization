@@ -1,5 +1,10 @@
 TD-Localization
 ---
+[![license](https://img.shields.io/github/license/yeataro/TD-Localization.svg)](LICENSE)
+[![release](https://img.shields.io/github/release/yeataro/TD-Localization.svg)](https://github.com/yeataro/TD-Localization/releases/latest)
+[![release-date](https://img.shields.io/github/release-date/yeataro/TD-Localization.svg)](https://github.com/yeataro/TD-Localization/releases)
+[![release-latest](https://img.shields.io/github/downloads/yeataro/TD-Localization/latest/total.svg)](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
+
 ![icon](img/icon.jpg)
 
 Localize the TD user interface.
@@ -9,6 +14,7 @@ Localize the TD user interface.
 TDユーザーインターフェースをローカライズします。
 
 [**Downlad last release**](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
+
 
 ----------
 ### Current function: 
