@@ -8,6 +8,8 @@ Localize the TD user interface.
 
 TDユーザーインターフェースをローカライズします。
 
+[**Downlad last release**](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
+
 ----------
 ### Current function: 
 
