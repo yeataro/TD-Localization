@@ -1,9 +1,9 @@
 TD-Localization
 ---
 [![license](https://img.shields.io/github/license/yeataro/TD-Localization.svg)](LICENSE)
-[![release](https://img.shields.io/github/release/yeataro/TD-Localization.svg)](https://github.com/yeataro/TD-Localization/releases/latest)
-[![release-date](https://img.shields.io/github/release-date/yeataro/TD-Localization.svg)](https://github.com/yeataro/TD-Localization/releases)
-[![downloads](https://img.shields.io/github/downloads/yeataro/TD-Localization/total.svg)](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
+[![release](https://img.shields.io/github/release/yeataro/TD-Localization.svg)](../../releases/latest)
+[![release-date](https://img.shields.io/github/release-date/yeataro/TD-Localization.svg)](../../releases)
+[![downloads](https://img.shields.io/github/downloads/yeataro/TD-Localization/total.svg)](../../releases/latest/download/TD_Localization.tox)
 
 ![icon](img/icon.jpg)
 
