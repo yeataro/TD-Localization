@@ -77,7 +77,7 @@ Localize the TD user interface.
 
 
 ---
-#日本語
+# 日本語
 **[ 
 [最新リリースをダウンロードする](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
  / 
