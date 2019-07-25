@@ -65,7 +65,7 @@ TD will automatically fix its own UI, each time you start TD will be restored to
 **[ 
 [下載最新版本](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
  / 
-[版本頁面頁面](https://github.com/yeataro/TD-Localization/releases/)
+[版本頁面](https://github.com/yeataro/TD-Localization/releases/)
  ]**
 
 本地化TD使用者介面。
