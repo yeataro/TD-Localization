@@ -17,7 +17,9 @@ TD-Localization help
 
 Localize the TD user interface.
 
-> Tips: TD will automatically fix its own UI, each time you start TD will be restored to English interface(actually, any changes will not be stored in "/ui", it will be re-created at startup), So every time you start, you have to translate it once.
+```
+Tips: TD will automatically fix its own UI, each time you start TD will be restored to English interface(actually, any changes will not be stored in "/ui", it will be re-created at startup), So every time you start, you have to translate it once.
+```
 
 ### Current function: 
 
