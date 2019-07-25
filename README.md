@@ -5,6 +5,8 @@ TD-Localization
 [![release-date](https://img.shields.io/github/release-date/yeataro/TD-Localization.svg)](../../releases)
 [![downloads](https://img.shields.io/github/downloads/yeataro/TD-Localization/total.svg)](../../releases/latest/download/TD_Localization.tox)
 
+**[ [Englise](#Current-function) / [繁體漢語](#目前功能) / [日本語](#現在の機能) ]**
+
 ![icon](img/icon.jpg)
 
 Localize the TD user interface.
@@ -13,8 +15,8 @@ Localize the TD user interface.
 
 TDユーザーインターフェースをローカライズします。
 
-[**Downlad last release**](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox)
-
+### [ [**Downlad last release**](https://github.com/yeataro/TD-Localization/releases/latest/download/TD_Localization.tox) ]
+### [ [**How to use**](HELP) ]
 
 ----------
 ### Current function: 
@@ -35,6 +37,10 @@ TDユーザーインターフェースをローカライズします。
 	- **Arabic** (Google straight)
 
 - A spreadsheet used in the work [here](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing). The editing permission is open. I will only proof the language I am familiar with. Welcome the users who are familiar with the language to proofread.
+
+![summaries-zh-TW](img/menus-fr.png)
+
+![summaries-zh-TW](img/summaries-fr.png)
 
 ---
 
@@ -59,8 +65,6 @@ TDユーザーインターフェースをローカライズします。
 
 ![summaries-zh-TW](img/menus.png)
 
-
-
 ![summaries-zh-TW](img/summaries.png)
 
 ---
@@ -84,7 +88,9 @@ TDユーザーインターフェースをローカライズします。
 
  - 仕事用スプレッドシートは[こちら](https://docs.google.com/spreadsheets/d/1NJm6y2Eg9iyHv9mFdaBHJw_12bNU1CDQBGmgoTJVkHo/edit?usp=sharing)。 編集権限があります。 私は慣れ親しんだ言語だけを校正します。 その言語に精通しているユーザーを校正してください。
  
- ![summaries-ja-JP](img/summaries-jp.png)
+![summaries-zh-TW](img/menus-jp.png)
+
+![summaries-ja-JP](img/summaries-jp.png)
  
 
 ----------
