@@ -154,7 +154,7 @@ TDユーザーインターフェースをローカライズします。
 ### 結果の例
 ![summaries-zh-TW](img/menus-jp.png)
 
-![summaries-zh-TW](img/summaries.png)
+![summaries-zh-TW](img/summaries-jp.png)
 
 ## ヒント
 TDを起動するたびにTDは自動的に独自のUIを修正します（実際には、変更はすべて "/ ui"に保存されず、起動時に再生成されます）。 起動するたびに一度翻訳してください。
