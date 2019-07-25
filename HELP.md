@@ -51,9 +51,9 @@ Select the desired language in the drop-down menu of the `Language` parameter an
 ![Change Language](img/change-l.png)
 
 ### Using results examples
-![summaries-zh-TW](img/menus.png)
+![summaries-zh-TW](img/menus-fr.png)
 
-![summaries-zh-TW](img/summaries.png)
+![summaries-zh-TW](img/summaries-fr.png)
 
 
 ## Tips
