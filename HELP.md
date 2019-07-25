@@ -57,7 +57,7 @@ Select the desired language in the drop-down menu of the `Language` parameter an
 
 
 ## Tips
-TD will automatically fix its own UI, each time you start TD will be restored to English interface(actually, any changes will not be stored in "/ui", it will be re-created at startup), So every time you start, you have to translate it once.
+TD will automatically fix its own UI, each time you start TD will be restored to English interface(actually, any changes will not be stored in `/ui` , it will be re-created at startup), So every time you start, you have to translate it once.
 
 ----------
 
@@ -106,7 +106,7 @@ TD will automatically fix its own UI, each time you start TD will be restored to
 ![summaries-zh-TW](img/summaries.png)
 
 ## 使用提示
-TD會自動修復它自己的UI，每次啟動TD都會復原為英語介面(實際上，任何的修改在"/ui"中都不會被儲存，它會重新在啟動時生成)，因此每次啟動都要翻譯一次。
+TD會自動修復它自己的UI，每次啟動TD都會復原為英語介面(實際上，任何的修改在 `/ui` 中都不會被儲存，它會重新在啟動時生成)，因此每次啟動都要翻譯一次。
 
 ---
 # 日本語
@@ -140,13 +140,13 @@ TDユーザーインターフェースをローカライズします。
 
 ## 使い方
 ### パレットに追加
-`TD_Localization.tox`をダウンロードしたら、それを` C：\ Users \ [ユーザー名] \ Documents \ Derivative \ Palette \ [新しいフォルダー] `に入れます
-あるいは `Palette`パネルの` My Components`を右クリックし、 `Add folder`をクリックしてコンポーネントを新しく追加されたフォルダーにドラッグします。その後、このフォルダ内の新しいプロジェクトにコンポーネントをドラッグできます。
+`TD_Localization.tox` をダウンロードしたら、それを `C：\ Users \ [ユーザー名] \ Documents \ Derivative \ Palette \ [新しいフォルダー]` に入れます
+あるいは `Palette` パネルの `My Components` を右クリックし、 `Add folder` をクリックしてコンポーネントを新しく追加されたフォルダーにドラッグします。その後、このフォルダ内の新しいプロジェクトにコンポーネントをドラッグできます。
 
 ![フォルダを追加](img/ADD-TO-PALETTE-0.png)
 
 ### ローカライゼーション
-`Language`パラメータのドロップダウンメニューから希望の言語を選択し、翻訳したい要素をOnに切り替えてから`言語の変更 `の`パルス 'ボタンをクリックしてください。そうすると、あなたはあなたのインターフェース要素があなたが望む言語に翻訳されているのを見るでしょう。
+`Language` パラメータのドロップダウンメニューから希望の言語を選択し、翻訳したい要素をOnに切り替えてから `Change Language` の `Pulse` ボタンをクリックしてください。そうすると、あなたはあなたのインターフェース要素があなたが望む言語に翻訳されているのを見るでしょう。
 
 ![言語を選択](img/choice-l.png)
 ![言語変更](img/change-l.png)
@@ -157,7 +157,7 @@ TDユーザーインターフェースをローカライズします。
 ![summaries-zh-TW](img/summaries-jp.png)
 
 ## ヒント
-TDを起動するたびにTDは自動的に独自のUIを修正します（実際には、変更はすべて "/ ui"に保存されず、起動時に再生成されます）。 起動するたびに一度翻訳してください。
+TDを起動するたびにTDは自動的に独自のUIを修正します（実際には、変更はすべて `/ui` に保存されず、起動時に再生成されます）。 起動するたびに一度翻訳してください。
 
 ----------
 
